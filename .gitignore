@@ -1,0 +1,17 @@
+# System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Gemini / Antigravity workspace files
+.gemini/
+mcp_server_config.json
